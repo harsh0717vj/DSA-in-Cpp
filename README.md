@@ -3,29 +3,25 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Welcome%20to%20My%20DSA%20Journey!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- Social Badges -->
+<h2 align="center">👋 Hey folks, I'm <span style="color:#00C9FF">Harsh Vardhan</span> — Welcome to my DSA-in-Cpp Repository!</h2>
+<p align="center">Here I share my daily progress, problem-solving journey, and coding experiments as I master Data Structures & Algorithms in C++ 🚀</p>
+
+---
+
+## 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/harsh-vardhan-b6a912325/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/tIUkRMgUl5/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="https://github.com/harsh0717vj"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/harsh-vardhan-b6a912325/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/tIUkRMgUl5/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://github.com/harsh0717vj"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 **2nd Year CSE Student** (3rd Semester)  
-- 📚 Currently learning **Data Structures & Algorithms in C++**  
-- 🧠 Previously learned **DSA in C** and **DAA in C**  
-- 🌐 Also exploring **Web Development** (HTML, CSS, JavaScript)  
-- 💡 Aim: **Become a skilled problem solver and full-stack developer**  
-
----
-
 ## 📅 Daily Goals
-- Practice **at least 2-3 DSA problems daily**
-- Work on **LeetCode** challenges  
-- Build small projects to apply concepts  
-- Document progress in this repository  
+- Solve **at least 1-2 DSA problems** in C++
+- Learn **new algorithms and data structures**
+- Practice **LeetCode challenges**
+- Keep track of my progress here every day 📈
 
 ---
 
@@ -46,18 +42,24 @@
 ---
 
 ## 💻 Projects
-- **Simple Quiz Web App** – A browser-based quiz with 5 questions that displays the score out of 5. Built during my 2nd semester using **HTML, CSS, and JavaScript**.  
+- **Simple Quiz Web App** – A browser-based quiz with 5 questions that displays the score out of 5.  
+  Built during my 2nd semester using HTML, CSS, and JavaScript.
 
 ---
 
-## 📊 GitHub Streak Stats
+## 📊 GitHub Stats & Streaks
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=harsh0717vj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harsh0717vj&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh0717vj&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-<!-- Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=100&section=footer"/>
+  🚀 *Consistent progress beats perfection. Let’s code our way to mastery!* 💻
 </p>
