@@ -1,52 +1,63 @@
+<!-- Welcome Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+My+C%2B%2B+DSA+Repository!;Daily+DSA+Practice+and+Learning;Consistency+is+Key!+%F0%9F%9A%80" alt="Welcome Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Welcome%20to%20My%20DSA%20Journey!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<!-- Social Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/harsh-vardhan-b6a912325/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://leetcode.com/u/tIUkRMgUl5/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-  </a>
-  <a href="https://github.com/harsh0717vj/DSA-in-Cpp">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+  <a href="https://www.linkedin.com/in/harsh-vardhan-b6a912325/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/tIUkRMgUl5/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://github.com/harsh0717vj"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-##  About Me
-I’m a **2nd-year CSE student (3rd semester)** building this DSA repository alongside my coursework. I practice daily to enhance my problem-solving skills and document my growth one step at a time.
+---
+
+## 👨‍💻 About Me
+- 🎓 **2nd Year CSE Student** (3rd Semester)  
+- 📚 Currently learning **Data Structures & Algorithms in C++**  
+- 🧠 Previously learned **DSA in C** and **DAA in C**  
+- 🌐 Also exploring **Web Development** (HTML, CSS, JavaScript)  
+- 💡 Aim: **Become a skilled problem solver and full-stack developer**  
 
 ---
 
-#  DSA in C++
-
-This repository houses my **Data Structures & Algorithms** practice in **C++**. I’ll be solving and sharing my solutions daily to build consistency and competence.
-
----
-
-##  Daily Goals
-- Solve **1–2 DSA challenges** every day.
-- Learn **new data structures and algorithms** regularly.
-- Keep track of progress and challenges faced.
+## 📅 Daily Goals
+- Practice **at least 2-3 DSA problems daily**
+- Work on **LeetCode** challenges  
+- Build small projects to apply concepts  
+- Document progress in this repository  
 
 ---
 
-##  Tech Stack
-- **C++17**
-- **Git & GitHub** for version control
-- **Visual Studio Code** as my development environment
+## 🛠 Skills Learned So Far
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Structures-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Algorithms-FF9800?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
-##  Repository Structure
+## 💻 Projects
+- **Simple Quiz Web App** – A browser-based quiz with 5 questions that displays the score out of 5. Built during my 2nd semester using **HTML, CSS, and JavaScript**.  
 
 ---
 
-##  How to Run
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/harsh0717vj/DSA-in-Cpp.git
-cd DSA-in-Cpp
-g++ filename.cpp -o output
-./output
+## 📊 GitHub Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=harsh0717vj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=100&section=footer"/>
+</p>
