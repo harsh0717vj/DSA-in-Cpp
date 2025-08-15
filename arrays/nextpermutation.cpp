@@ -2,13 +2,13 @@
 #include<vector>
 #include<algorithm>
 using namespace std;
-void display(vector<int>v){
+void display(vector<int>&v){
     for(int i=0;i<v.size();i++){
         cout<<v[i]<<" ";
     }
     cout<<endl;
 }
-void nextpermutation(vector<int>v){
+void nextpermutation(vector<int>&v){
     int idx=-1;
     int n=v.size();
     for(int i=n-2;i>=0;i--){
@@ -17,23 +17,19 @@ void nextpermutation(vector<int>v){
             break;
         }
     }
-    if(idx==-1){
-            reverse(v.begin(),v.end());
-            return;
+    if(idx=-1) reverse(v.begin(),v.end());
+    int j=-1;
+    for(int i=idx+1;i<n;i++){
+        if(v[i]>v[idx]){
+            j=i;
+            break;
         }
-        reverse(v.begin()+(idx+1),v.end());
-        int j=-1;
-        for(int i=idx+1;i<n;i++){
-            if(v[i]>v[idx]){
-                j=i;
-                break;
-            }
-        }
-        int temp=v[idx];
-        v[idx]=v[j];
-        v[j]=temp;
-        return;
     }
+    int temp=v[idx];
+    v[idx]=v[j];
+    v[j]=temp;
+    return;
+}
 int main(){
     vector<int>v;
     int x;
@@ -41,7 +37,7 @@ int main(){
     cout<<"Enter Size of the Array: ";
     cin>>n;
     for(int i=0;i<n;i++){
-        cout<<"Enter Element: ";
+        cout<<"Enter Element "<<i+1<<": ";
         cin>>x;
         v.push_back(x);
     }
