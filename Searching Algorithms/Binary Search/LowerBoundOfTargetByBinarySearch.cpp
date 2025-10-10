@@ -16,13 +16,13 @@ void BinarySearch(vector<int>&v,int target){
         int mid=i+((j-i)/2);
         if(v[mid]==target){
             flag=true;
-           cout<<"Lower Bound of "<<target<<" is: "<< v[i-1];
+           cout<<"Lower Bound of "<<target<<" is: "<< v[i-1]<<endl;
             break;
         }
         else if(v[mid]<target) i=mid+1;
         else j=mid-1;
     }
-     if(flag==false) cout<<"Lower Bound of "<<target<<" is: "<<v[j];
+     if(flag==false) cout<<"Lower Bound of "<<target<<" is: "<<v[j]<<endl;
 }
 int main(){
     int n,x;
